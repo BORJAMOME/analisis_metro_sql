@@ -1,5 +1,8 @@
 
    ![Screenshot 2024-05-17 at 11 33 07](https://github.com/BORJAMOME/metro_madrid/assets/19588053/9a286e2a-8750-4223-8c9a-6beda62169f1)
+
+[![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+
 # Análisis de Pasajeros del Metro de Madrid
 
 Este repositorio contiene un análisis de los datos de pasajeros del Metro de Madrid, organizados y procesados mediante un script SQL. El archivo `datos_metro_madrid.sql` incluye la creación de la base de datos y la tabla correspondiente, así como varias consultas para obtener información relevante sobre los pasajeros del metro.
