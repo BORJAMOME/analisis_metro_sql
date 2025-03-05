@@ -1,6 +1,3 @@
-
-   ![Screenshot 2024-05-17 at 11 33 07](https://github.com/BORJAMOME/metro_madrid/assets/19588053/9a286e2a-8750-4223-8c9a-6beda62169f1)
-
 [![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
 
 # Análisis de Pasajeros del Metro de Madrid
